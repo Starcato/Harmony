@@ -15,8 +15,6 @@
 <img width="885" alt="스크린샷 2023-04-08 오후 10 18 09" src="https://user-images.githubusercontent.com/44528897/230728311-717b0998-b92a-4daf-89ac-b8ceefc46d17.png">
 
 
-
-
 ## Development Environment
 
 | Intellij | Eclipse | SQL Develper |
@@ -26,16 +24,16 @@
 
 ## System Structure
 
-## MVC Architecture Pattern
+### MVC Architecture Pattern
 <img width="975" alt="스크린샷 2023-04-08 오후 9 27 44" src="https://user-images.githubusercontent.com/44528897/230728588-189a5fe4-0179-48fd-8158-0a1b27692744.png">
 
 
-## Entity Relationship Diagram
+### Entity Relationship Diagram
 ![그림3](https://user-images.githubusercontent.com/44528897/230728685-9cac9f2e-1ea2-4399-b657-103227300440.png)
 
 
 
-## Class Diagram
+### Class Diagram
 <img width="1189" alt="클래스 다이어그램" src="https://user-images.githubusercontent.com/44528897/230728680-5136405d-4e76-453b-8bd5-00bd8b06bf9b.png">
 
 
