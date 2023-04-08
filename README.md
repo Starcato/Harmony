@@ -17,7 +17,7 @@
 
 
 
-## Develpoment Environment
+## Development Environment
 
 | Intellij | Eclipse | SQL Develper |
 | --- | --- | --- |
