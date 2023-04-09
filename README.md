@@ -1,5 +1,16 @@
 # Harmony
 
+## 📚Stacks
+### Development Environment
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+### Development Language
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+### Collaboration Tools
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/gooleDrive-4285F4?style=for-the-badge&logo=googleDrive&logoColor=white">
+
+
 ## Team <span style="color:yellow">Star</span>cato
 <img width="773" alt="스크린샷 2023-04-09 오전 12 02 32" src="https://user-images.githubusercontent.com/44528897/230728361-7d11ed01-140c-408a-b2c7-c63a9ace9c62.png">
 <br/>
@@ -21,6 +32,8 @@
 | --- | --- | --- |
 | <img width="113" alt="그림1" src="https://user-images.githubusercontent.com/44528897/230728504-0ef6682b-1250-438b-aeee-ae8ba8967878.png"> | <img width="108" alt="스크린샷 2023-04-09 오전 12 34 40" src="https://user-images.githubusercontent.com/44528897/230729911-55544e07-2bca-4719-9b6e-b432e9abe5ca.png"> |<img width="126" alt="스크린샷 2023-04-09 오전 12 31 14" src="https://user-images.githubusercontent.com/44528897/230729766-3a5af3ed-5ec3-4827-a4c1-aabb4831c506.png"> |
 <br/>
+  
+
 
 ## System Structure
 ### MVC Architecture Pattern
