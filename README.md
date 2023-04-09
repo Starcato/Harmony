@@ -77,6 +77,23 @@ MVC 패턴과 JDBC를 사용한 콘솔 기반의 뮤지컬 예매 시스템
 <img width="609" alt="스크린샷 2023-04-08 오후 10 50 52" src="https://user-images.githubusercontent.com/44528897/230729379-6805aadc-775d-484a-b295-0b882c19513a.png">
 
 
+# Demo Video
+### 📽️ 회원가입/로그인, 개인정보 확인, 비밀번호 변경
+![gif1](https://user-images.githubusercontent.com/44528897/230776962-327b124c-371d-4e7b-b81c-fdde4f69ac32.gif)
+
+
+### 📽️ 뮤지컬 차트 조회, 뮤지컬 상세 조회, 예매 내역 확인
+![gif2](https://user-images.githubusercontent.com/44528897/230776966-e9c79a08-5f8d-4a0d-8eb1-79b10aef37c1.gif)
+
+
+### 📽️ 예매, 카드등록, 예매 내역 확인
+![gif3_1](https://user-images.githubusercontent.com/44528897/230777537-739f532c-dc83-4347-bc02-4b0e05110a5c.gif)
+
+
+### 📽️ 예매 취소, 종료
+![gif4](https://user-images.githubusercontent.com/44528897/230777551-d1dec48e-a34a-45b3-bf1b-87d18372fc0b.gif)
+
+
 # ⭐ Expected Effect
 <img width="853" alt="스크린샷 2023-04-08 오후 11 56 24" src="https://user-images.githubusercontent.com/44528897/230729415-aefa3877-5238-4250-a110-c4c7b6397d97.png">
 
