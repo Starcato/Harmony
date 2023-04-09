@@ -2,7 +2,7 @@
 
 ## 📚Stacks
 ### Development Environment
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/intellijIdea-000000?style=for-the-badge&logo=intellijIdea&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/sqlDeveloper-666666?style=for-the-badge&logo=sqlDeveloper&logoColor=white">
 
 ### Development Language
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -26,13 +26,6 @@
 ## Development Process
 <img width="885" alt="스크린샷 2023-04-08 오후 10 18 09" src="https://user-images.githubusercontent.com/44528897/230728311-717b0998-b92a-4daf-89ac-b8ceefc46d17.png">
 <br/>
-
-## Development Environment
-| Intellij | Eclipse | SQL Develper |
-| --- | --- | --- |
-| <img width="113" alt="그림1" src="https://user-images.githubusercontent.com/44528897/230728504-0ef6682b-1250-438b-aeee-ae8ba8967878.png"> | <img width="108" alt="스크린샷 2023-04-09 오전 12 34 40" src="https://user-images.githubusercontent.com/44528897/230729911-55544e07-2bca-4719-9b6e-b432e9abe5ca.png"> |<img width="126" alt="스크린샷 2023-04-09 오전 12 31 14" src="https://user-images.githubusercontent.com/44528897/230729766-3a5af3ed-5ec3-4827-a4c1-aabb4831c506.png"> |
-<br/>
-  
 
 
 ## System Structure
