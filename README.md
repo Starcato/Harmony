@@ -1,4 +1,4 @@
-# Harmony
+# 🎼 Harmony
 
 MVC 패턴과 JDBC를 사용한 콘솔 기반의 뮤지컬 예매 시스템
 
